@@ -1,0 +1,7 @@
+{
+  "name": "iCool Industry Kenya - Arctic Industrial Portal",
+  "description": "Next-gen industrial platform for HVAC automation, cryogenic distribution, and technical modeling in Nairobi, Kenya.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
